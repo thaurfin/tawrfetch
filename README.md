@@ -21,7 +21,6 @@ The purpose of creating **Tawrfetch** was to deepen my understanding of various 
 - **Kernel Version**: Display of the current kernel version.
 - **Uptime**: Time since the system was last booted.
 - **Shell**: The shell currently in use.
-- **Desktop Environment** (on Linux): The active desktop environment session.
 - **CPU**: Information about the system's CPU, including model name.
 - **Memory**: Total and used memory, in GB.
 
