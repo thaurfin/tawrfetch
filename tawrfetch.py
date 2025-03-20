@@ -108,7 +108,7 @@ def display_info():
     terminal_width = shutil.get_terminal_size().columns  # Get the terminal's width to center content.
 
     # Print the ASCII art centered in the terminal with yellow text on a black background.
-    print(Back.BLACK + Fore.YELLOW + center_text(ascii_art, terminal_width))
+    print(Fore.YELLOW + center_text(ascii_art, terminal_width))
 
     # Retrieve the username of the person logged into the system.
     uname = os.getlogin()
